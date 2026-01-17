@@ -53,11 +53,13 @@ body{
   width:100%;
   margin-top: 10px;
   margin-right: 10px;
+  /* margin-bottom: 5px; */
   border: 2px solid #555;
   border-radius: 6px;
   outline: none;
   background: transparent;
   transition: 0.3s;
+  color:white;
 }
 .button1 button:hover{
     
@@ -71,5 +73,6 @@ body{
   border-color: #00ff00;
   box-shadow: 0 0 10px #00ff00, 0 0 20px rgba(0,255,0,0.6);
 }
+
 
 
